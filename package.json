@@ -1,0 +1,40 @@
+{
+  "name": "eslint-config-tombfix",
+  "version": "0.0.1-alpha.0",
+  "description": "ESLint Shareable Config for Tombfix",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "eslint-config",
+    "code style"
+  ],
+  "homepage": "https://github.com/tombfix/eslint-config",
+  "license": "CC0-1.0",
+  "author": {
+    "name": "Syoichi Tsuyuhara",
+    "email": "syoichi@outlook.com",
+    "url": "http://syoichi.tumblr.com/"
+  },
+  "files": [
+    "index.js",
+    ".eslintrc.json"
+  ],
+  "main": "index.js",
+  "repository": "tombfix/eslint-config",
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "mocha",
+    "preversion": "npm test",
+    "postversion": "git push && git push --tags"
+  },
+  "devDependencies": {
+    "eslint": "",
+    "power-assert": "",
+    "mocha": ""
+  },
+  "engines": {
+    "node": ">=5.1.0",
+    "npm": ">=3.3.12"
+  }
+}
