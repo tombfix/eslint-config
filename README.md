@@ -1,4 +1,4 @@
-# eslint-config-tombfix [![Build Status](https://api.travis-ci.org/tombfix/eslint-config.svg?branch=master)](https://travis-ci.org/tombfix/eslint-config) [![NPM Version](http://img.shields.io/npm/v/eslint-config-tombfix.svg)](https://npmjs.org/package/eslint-config-tombfix)
+# eslint-config-tombfix [![Build Status](https://api.travis-ci.org/tombfix/eslint-config.svg?branch=master)](https://travis-ci.org/tombfix/eslint-config) [![NPM Version](https://img.shields.io/npm/v/eslint-config-tombfix.svg)](https://npmjs.org/package/eslint-config-tombfix)
 
 ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for Tombfix
 
