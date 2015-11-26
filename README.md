@@ -1,6 +1,8 @@
-# eslint-config-tombfix [![Build Status](https://api.travis-ci.org/tombfix/eslint-config.svg?branch=master)](https://travis-ci.org/tombfix/eslint-config) [![NPM Version](https://img.shields.io/npm/v/eslint-config-tombfix.svg)](https://npmjs.org/package/eslint-config-tombfix)
+# eslint-config-tombfix
 
-ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for Tombfix
+[![Build Status](https://api.travis-ci.org/tombfix/eslint-config.svg?branch=master)](https://travis-ci.org/tombfix/eslint-config) [![NPM Version](https://img.shields.io/npm/v/eslint-config-tombfix.svg)](https://npmjs.org/package/eslint-config-tombfix)
+
+[ESLint](http://eslint.org/) [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for [Tombfix](https://github.com/tombfix)
 
 ## Installation
 
@@ -62,3 +64,5 @@ Please see [CONTRIBUTING.md](/CONTRIBUTING.md).
 ## License
 
 [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Please see [LICENSE](/LICENSE).
